@@ -1,0 +1,11 @@
+hello, my duck!
+	tab string
+tab in string	yes
+
+empt string
+
+
+empt string 2
+foo
+foo
+foo
